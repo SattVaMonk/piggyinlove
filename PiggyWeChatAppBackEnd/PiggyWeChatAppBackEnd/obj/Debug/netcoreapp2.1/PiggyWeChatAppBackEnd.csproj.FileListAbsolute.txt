@@ -1,0 +1,15 @@
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.AssemblyInfoInputs.cache
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.AssemblyInfo.cs
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\bin\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.deps.json
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\bin\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.runtimeconfig.json
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\bin\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.runtimeconfig.dev.json
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\bin\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.dll
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.csprojAssemblyReference.cache
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.RazorAssemblyInfo.cache
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.RazorAssemblyInfo.cs
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\bin\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.pdb
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.dll
+C:\Users\YE ANNING\source\repos\PiggyWeChatAppBackEnd\PiggyWeChatAppBackEnd\obj\Debug\netcoreapp2.1\PiggyWeChatAppBackEnd.pdb
